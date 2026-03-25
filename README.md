@@ -81,5 +81,3 @@ O conjunto de dados contém informações sobre clientes e campanhas, incluindo:
 - Construção de modelo preditivo de conversão  
 - Integração com ferramentas de BI (Power BI)  
 - Automatização de relatórios com SQL  
-
-## 📁 Estrutura do Projeto
